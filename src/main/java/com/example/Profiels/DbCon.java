@@ -15,6 +15,7 @@ public class DbCon {
 
 	@Value("${my.url}")
 	private String url;
-
+  
+	private String pass;
 
 }
